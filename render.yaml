@@ -10,9 +10,9 @@ services:
     envVars:
       - key: BOT_TOKEN
         sync: false
-      - key: API_ID
+      - key: API_ID 23171328
         sync: false
-      - key: API_HASH
+      - key: API_HASH 6ddc5297d7944557b225b54968efe0b8
         sync: false
       - key: WEBHOOK
         sync: false
