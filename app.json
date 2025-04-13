@@ -20,7 +20,7 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "7984021319:AAEG_GZ7NOjeL6UTdJHol7OCuaZFGPf1fHM",
+            "description": "",
             "required": true
         },
         "PORT": {
